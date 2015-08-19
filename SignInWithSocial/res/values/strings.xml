@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SignInWithSocial</string>
+    <string name="hello_world">Welcome to SignIn With Social</string>
+    <string name="action_settings">Settings</string>
+	<string name="fb_app_id">820051611458150</string>
+	<string name="fb_txt">SignIn With Facebook</string>
+	<string name="tw_txt">SignIn With Twitter</string>
+	<string name="ln_txt">SignIn With Linkedin</string>
+	<string name="share_txt">Share Post</string>
+	<string name="logout_txt">Logout</string>
+	
+</resources>
